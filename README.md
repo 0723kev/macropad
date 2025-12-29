@@ -1,6 +1,6 @@
 # Kev's Macropad - The Hybrid Macropad
 
-This is my custom 16-key mechanical macropad that has dual rotary encoders, per-key RGB lighting, and an OLED status screen. 
+This is my custom 10-key (8 MX, 2 encoder) mechanical macropad that has dual rotary encoders, per-key RGB lighting, and an OLED status screen. 
 It is powered by the XIAO RP2040 and an MCP23008 I/O expander to make sure that I can do as much as I can on this board with such a small footprint.
 
 ## Images
