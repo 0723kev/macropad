@@ -1,3 +1,7 @@
 # Kev's Macropad v1 - The Hybrid Macropad
 
-I'll put something here
+## Schematic
+<img src=".github/images/Schematic.png"/>
+
+## PCB
+<img src=".github/images/PCB.png"/>
