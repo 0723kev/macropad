@@ -3,11 +3,19 @@
 This is my custom 16-key mechanical macropad that has dual rotary encoders, per-key RGB lighting, and an OLED status screen. 
 It is powered by the XIAO RP2040 and an MCP23008 I/O expander to make sure that I can do as much as I can on this board with such a small footprint.
 
-## Schematic
-<img src=".github/images/Schematic.png"/>
+## Images
 
-## PCB
-<img src=".github/images/PCB.png"/>
+### Schematic
+![Schematic](.github/images/Schematic.png)
+
+### PCB
+![PCB](.github/images/PCB.png)
+
+### Assembly
+![Assembly](.github/images/Assembly.png)
+
+### Exploded Assembly
+![Exploded Assembly](.github/images/ExplodedAssembly.png)
 
 ## Firmware
 Firmware made using KMK
